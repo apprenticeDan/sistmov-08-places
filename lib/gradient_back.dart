@@ -20,5 +20,4 @@ class GradientBack extends StatelessWidget {
     );
     return gradient;
   }
-
 }
